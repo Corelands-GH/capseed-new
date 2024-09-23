@@ -1,0 +1,115 @@
+.homebanner {
+	background: linear-gradient(rgba(0, 0, 0, 0.356), rgba(0, 0, 0, 0.311)),
+		url("./assets/images/HomeBanner.webp");
+
+	height: 90vh;
+	width: 100%;
+	background-position: top;
+	z-index: 10;
+	max-height: 1400px;
+}
+html,
+body {
+	overflow-x: hidden;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+.container {
+	width: 100%;
+	max-width: 100%;
+}
+.borrowBanner {
+	/* background:  url('/aboutImages/urlaubstracker-dW8dOC8r7O4-unsplash (1) (1).jpg'); */
+
+	background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.2)),
+		url("./assets/images/borrow-new.webp");
+
+	height: 70vh;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+	background-position: top;
+}
+
+.aboutBanner {
+	/* background:  url('/aboutImages/urlaubstracker-dW8dOC8r7O4-unsplash (1) (1).jpg'); */
+
+	background: url("../src/screen/about/aboutImages/urlaubstracker-dW8dOC8r7O4-unsplash (1) (1).jpg");
+
+	height: 40vh;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+	/* background-position:top; */
+}
+
+.applyBanner {
+	/* background: linear-gradient(rgba(0, 0, 0, 0.356), rgba(0, 0, 0, 0.311)), url('/applyImages/The Realta_Home Page-01 (1).png'); */
+	background: linear-gradient(rgba(0, 0, 0, 0.356), rgba(0, 0, 0, 0.311)),
+		url("../src/assets/images/apply/apply-home.webp");
+	height: 50vh;
+	background-position: center;
+	background-size: 100%;
+	background-size: cover;
+	/* background-position: bottom; */
+	background-repeat: no-repeat;
+}
+
+.contactBanner {
+	background: linear-gradient(rgba(0, 0, 0, 0.356), rgba(0, 0, 0, 0.311)),
+		url("./assets/images/Contact-us.webp");
+	height: 65vh;
+	width: 100%;
+	/* background-position: center; */
+	background-size: cover;
+	background-repeat: no-repeat;
+	z-index: 10;
+}
+
+.investBanner {
+	background: linear-gradient(rgba(0, 0, 0, 0.356), rgba(0, 0, 0, 0.311)),
+		url("../src/screen/Invest/investImages/urlaubstracker-dW8dOC8r7O4-unsplash (1).jpg");
+	height: 70vh;
+
+	background-position: bottom;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+/* cardImage */
+
+.cardImage {
+	background: linear-gradient(rgba(0, 0, 0, 0.356), rgba(0, 0, 0, 0.311)),
+		url("../src/screen/Invest/investImages/tim-mossholder-KDlLiCL7XPk-unsplash.jpg");
+	height: 70vh;
+	background-position: bottom;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.invest2ndbanner {
+	background: linear-gradient(rgba(0, 0, 0, 0.356), rgba(0, 0, 0, 0.311)),
+		url("../src/screen/Invest/investImages/tim-mossholder-KDlLiCL7XPk-unsplash.jpg");
+	height: 70vh;
+	background-position: bottom;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+input,
+textarea {
+	color: white !important;
+}
+input:focus,
+textarea:focus {
+	color: white !important;
+	background-color: #303c36 !important;
+}

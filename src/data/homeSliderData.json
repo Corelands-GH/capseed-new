@@ -1,0 +1,25 @@
+{
+	"paragraphs": [
+		{
+			"id": 1,
+			"text": "We understand that financial needs differ from person to person. We provide a wide range of lending options to fit your financial situation. You can pick the loan type, repayment plan & interest rate that suits your specific needs",
+			"title1": "Flexible",
+			"title2": "Financing",
+			"icon": "F"
+		},
+		{
+			"id": 2,
+			"text": "We strive to provide our clients with quick access to funds. We know time matters, so we've made our application and approval process easy and quick, making sure you get your funds without any delay.",
+			"title1": "Quick ",
+			"title2": "Loans",
+			"icon": "$"
+		},
+		{
+			"id": 3,
+			"text": "We believe in having open and honest conversations with our clients. Our process clearly outlines all the information related to your loan like terms, fees, and charges. We offer help and advice during the loan process so it's easier for you to make an informed decision.",
+			"title1": "Transparent",
+			"title2": "Process",
+			"icon": "P"
+		}
+	]
+}

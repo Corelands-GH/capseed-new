@@ -1,0 +1,29 @@
+{
+  "works": [
+    {
+      "id": 1,
+      "text": "Unlocking capital for Australian operations by leveraging equity in real estate assets.",
+      "title1": "SME ",
+      "title2": "Clients"
+    },
+    {
+      "id": 2,
+      "text": "  Providing short-term funding to ensure seamless execution of projects",
+      "title1": "Property ",
+      "title2": " Developers"
+    },
+    {
+      "id": 3,
+      "text": "  Facilitating the acquisition of real estate assets by securing necessary funds for new opportunities.",
+
+      "title1": "Property ",
+      "title2": " Syndicates"
+    },
+    {
+      "id": 4,
+      "text": "  Assisting brokers, accountants, and credit representatives in securing residential, commercial, and industrial funds.",
+      "title1": "SME ",
+      "title2": "Associates"
+    }
+  ]
+}
